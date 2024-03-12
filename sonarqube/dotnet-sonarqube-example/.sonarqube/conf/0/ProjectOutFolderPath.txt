@@ -1,0 +1,1 @@
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/.sonarqube/out/0

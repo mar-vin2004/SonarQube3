@@ -1,0 +1,13 @@
+﻿/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/Controllers/SampleController.cs
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/Program.cs
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/SampleModel.cs
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/Startup.cs
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/obj/Debug/net5.0/SampleApp.AssemblyInfo.cs
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/obj/Debug/net5.0/SampleApp.MvcApplicationPartsAssemblyInfo.cs
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/appsettings.Development.json
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/appsettings.json
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/.gitignore
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/LICENSE
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/README.md
+/home/marcos/Documentos/atividades/atividade_prog3/dotnet-sonarqube-example/Properties/launchSettings.json
